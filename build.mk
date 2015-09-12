@@ -1,11 +1,11 @@
-PCRE_VERSION   = 8.36
+PCRE_VERSION   = 8.37
 APR_VERSION    = 1.5.1
 APU_VERSION    = 1.5.4
-APACHE_VERSION = 2.4.10
+APACHE_VERSION = 2.4.16
 PHP_VERSION    = 5.6.13
 
 PCRE_MIRROR    = http://softlayer-dal.dl.sourceforge.net/project/pcre/
-APACHE_MIRROR  = http://tweedo.com/mirror/apache/
+APACHE_MIRROR  = http://www.eu.apache.org/dist/
 PHP_MIRROR     = http://us1.php.net/distributions/
 
 all: httpd/modules/libphp5.so
