@@ -1,13 +1,13 @@
 PCRE_VERSION   = 8.37
-APR_VERSION    = 1.5.1
+APR_VERSION    = 1.5.2
 APU_VERSION    = 1.5.4
 APACHE_VERSION = 2.4.16
 PHP_VERSION    = 5.6.13
 
 
-PCRE_MIRROR    = http://softlayer-dal.dl.sourceforge.net/project/pcre/
-APACHE_MIRROR  = http://www.eu.apache.org/dist/
-PHP_MIRROR     = http://us1.php.net/distributions/
+PCRE_MIRROR    = https://sourceforge.net/projects/pcre/files/
+APACHE_MIRROR  = http://apache.cbox.biz/httpd/
+PHP_MIRROR     = http://bg2.php.net/get/php-5.6.13.tar.gz/from/this/mirror
 
 all: httpd/modules/libphp5.so
 .PHONY: all
