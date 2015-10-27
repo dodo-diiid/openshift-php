@@ -1,8 +1,8 @@
 PCRE_VERSION   = 8.37
 APR_VERSION    = 1.5.2
 APU_VERSION    = 1.5.4
-APACHE_VERSION = 2.4.16
-PHP_VERSION    = 5.6.13
+APACHE_VERSION = 2.4.17
+PHP_VERSION    = 5.6.14
 
 
 PCRE_MIRROR    = https://sourceforge.net/projects/pcre/files/
