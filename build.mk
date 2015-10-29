@@ -7,7 +7,7 @@ PHP_VERSION    = 5.6.14
 
 PCRE_MIRROR    = https://sourceforge.net/projects/pcre/files/
 APACHE_MIRROR  = http://apache.cbox.biz/httpd/
-PHP_MIRROR     = http://bg2.php.net/get/php-5.6.13.tar.gz/from/this/mirror
+PHP_MIRROR     = http://bg2.php.net/get/php-5.6.14.tar.gz/from/this/mirror
 
 all: httpd/modules/libphp5.so
 .PHONY: all
