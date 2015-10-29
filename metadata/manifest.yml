@@ -12,7 +12,6 @@ Categories:
 Provides:
   - apache
   - php-5.6
-  - php
 Scaling:
   Min: 1
   Max: -1
@@ -20,5 +19,4 @@ Group-Overrides:
   - components:
     - apache 2.4.17
     - php-5.6
-    - php
 Source-Url: ssh://github.com/dodo-diiid/openshift-php.git
